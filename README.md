@@ -1,1 +1,7 @@
 # EDA-Forbes-2022-with-python
+
+The Forbes Billionaires dataset is a rich source of information for analyzing the wealth of the world's richest people. With data spanning over several years, this dataset provides an opportunity to explore trends in the global wealth distribution and uncover insights into the factors that contribute to billionaires' success. In this project, we used Python's powerful data analysis libraries, including Pandas, NumPy, and Seaborn, to perform exploratory data analysis (EDA) on the Forbes Billionaires dataset.
+
+Our primary objective was to gain a better understanding of the dataset's structure, identify any missing or erroneous data, and uncover patterns and trends in the data. By leveraging Pandas' data manipulation capabilities, we were able to perform data cleaning, aggregation, and filtering to create a cleaned and enriched dataset for analysis. We then used NumPy to perform statistical analysis on the data and gain insights into the dataset's distribution, variance, and other key metrics. Finally, we used Seaborn to create visualizations that enabled us to communicate our findings effectively.
+
+Overall, this project demonstrates the power of Python's data analysis libraries in extracting insights from complex datasets such as the Forbes Billionaires dataset. The results of our analysis provide a valuable contribution to our understanding of the global wealth distribution and offer insights into the factors that drive billionaires' success.
